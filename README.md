@@ -14,7 +14,7 @@
   To install the necessary programs, run the following commands:
   npm i inquirer, and npm i
   ## Usage
-  node.js
+  node.js, please see the following video for a demonstration: https://youtu.be/8SMOCoGCu6g
   ## License 
   This project is licensed under the MIT license.
   ## Contributing
